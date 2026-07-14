@@ -1,4 +1,4 @@
-const API_KEY = "8a85c9fc-51ab-4e5f-a560-2d4774198fbb";
+const API_KEY = "";
 const API_URL_POPULAR =
   "https://kinopoiskapiunofficial.tech/api/v2.2/films/collections?type=TOP_250_MOVIES&page=1";
 const API_URL_SEARCH =
